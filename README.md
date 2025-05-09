@@ -1,10 +1,8 @@
 # 🚀 Java Training Documentation
 
 [![Java](https://img.shields.io/badge/Language-Java-orange?logo=java)](https://www.java.com/)
-[![Last Commit](https://img.shields.io/github/last-commit/SanthoshThiru/Java-Training-Documentation)](https://github.com/SanthoshThiru/Java-Training-Documentation/commits)
 
 [![Practice: LeetCode](https://img.shields.io/badge/Practice-LeetCode-blue?logo=leetcode)](https://leetcode.com/santhoshterode)
-[![GitHub Repo Stars](https://img.shields.io/github/stars/SanthoshThiru/Java-Training-Documentation?style=social)](https://github.com/SanthoshThiru/Java-Training-Documentation)
 
 
 📅 **Duration**: *April 2025 – May 2025*
@@ -50,3 +48,10 @@ Compile and run using terminal:
 ```bash
 javac src/recursion/SumOfArrayUsingRecursion.java
 java src.recursion.SumOfArrayUsingRecursion
+```
+
+<!-- ## 📧 Contact
+For any questions or collaboration inquiries, feel free to reach out to me:
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile) -->
