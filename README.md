@@ -2,8 +2,10 @@
 
 [![Java](https://img.shields.io/badge/Language-Java-orange?logo=java)](https://www.java.com/)
 [![Last Commit](https://img.shields.io/github/last-commit/SanthoshThiru/Java-Training-Documentation)](https://github.com/SanthoshThiru/Java-Training-Documentation/commits)
-[![LeetCode](https://img.shields.io/badge/Practice-LeetCode-blue?logo=leetcode)](https://leetcode.com/<your-leetcode-username>/)
+
+[![Practice: LeetCode](https://img.shields.io/badge/Practice-LeetCode-blue?logo=leetcode)](https://leetcode.com/santhoshterode)
 [![GitHub Repo Stars](https://img.shields.io/github/stars/SanthoshThiru/Java-Training-Documentation?style=social)](https://github.com/SanthoshThiru/Java-Training-Documentation)
+
 
 📅 **Duration**: *April 2025 – May 2025*
 
@@ -35,8 +37,6 @@ This repository is a complete log of my Java training journey. It includes:
 ---
 
 ## 📂 Folder Overview
-
-## 📁 Folder Structure
 - `src/bitwise/`: Bit manipulation and XOR-based problems
 - `src/recursion/`: Recursive problems like factorial, Fibonacci, sum of array, etc.
 - `src/strings/`: String-related operations
